@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+.env*
+.DS_Store
+# low-res source frames (the site uses the -hd folders)
+public/frames/hero/
+public/frames/about/
