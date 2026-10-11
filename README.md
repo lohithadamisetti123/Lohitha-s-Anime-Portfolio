@@ -22,8 +22,8 @@ Scroll to play the scene, stop and time stops with you, scroll up to rewind. Red
 4. **Swap the resume & photos** — replace `public/resume.pdf` with yours, and the images in `public/stills/` if you like. Want your own character? Put your frames in `public/frames/hero-hd` and `public/frames/about-hd` (`001.webp`, `002.webp`, …).
 5. **Put it online** — push to your GitHub and import it on [Vercel](https://vercel.com) (free, one click). Netlify or any cloud that runs Next.js works too.
 
-
-I really hope this helps you land something amazing. Can't wait to see what you build. ✨
+---
+I really hope this helps you land something amazing. ✨
 
 — Lohitha
 
